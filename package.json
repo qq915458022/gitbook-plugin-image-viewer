@@ -1,3 +1,24 @@
-"engines": {
+{
+  "name": "gitbook-plugin-image-viewer",
+  "version": "1.0",
+  "description": "Zoom all the images in page",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qq915458022/gitbook-plugin-image-viewer.git"
+  },
+  "keywords": [
+    "gitbook",
+    "plugin",
+    "image"
+  ],
+  "author": "Dalvik SHEN",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/qq915458022/gitbook-plugin-image-viewer/issues"
+  },
+  "homepage": "https://github.com/qq915458022/gitbook-plugin-image-viewer",
+  "engines": {
     "gitbook": "*"
-},
+  }
+}
