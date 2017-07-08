@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-image-viewer",
-  "version": "1.0",
+  "version": "0.1.0",
   "description": "Zoom all the images in page",
   "main": "index.js",
   "repository": {

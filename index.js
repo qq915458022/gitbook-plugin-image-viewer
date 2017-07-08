@@ -1,17 +1,14 @@
 module.exports = {
     book: {
-        assets: './book',
+        assets: './assets',
         js: [
-            'zoomify.js'
+            'jquery.min.js',
+            'zoomify.js',
+            'index.js'
         ],
         css: [
             'zoomify.css'
         ]
     },
-    hooks: {
-        "page": function (page) {
-            alert("a");
-            return page;
-        }
-    }
+    hooks: {}
 };
